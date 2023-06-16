@@ -9,5 +9,9 @@ public class Client {
 	public void clLocation() {
 		System.out.println("Client Location: Chennai");
 	}
+	
+	private void clStatus() {
+		System.out.println("status: working currently");
+	}
 
 }
